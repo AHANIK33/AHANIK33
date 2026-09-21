@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AHANIK33/AHANIK33/main/github_profile_neural_animation.gif" width="100%" alt="Neural Network Animation">
+</div>
 <!--
 **AHANIK33/AHANIK33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
